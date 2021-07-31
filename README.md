@@ -8,3 +8,6 @@ These are our features or independent variables. There is a linear relationship 
 Thus we define one linear regression model to estimate the output for new data. At the end we defined manually two new data and we estimate the 
 related output. Also we compare our model output with statsmodel.
 Reference: https://datatofish.com/multiple-linear-regression-python/
+<p>
+All the source codes and explanations are coming in multiple variable regression.py 
+</p>
